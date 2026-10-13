@@ -1,0 +1,19 @@
+# Secrets - never commit these
+.env
+.env.*
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Dependencies and build output (for later projects)
+node_modules/
+dist/
+
+# Logs
+*.log
