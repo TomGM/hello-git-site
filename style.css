@@ -6,6 +6,11 @@ body {
   background-color: #f6f5f4;
 }
 
+footer {
+  margin-top: 2rem;
+  font-size: 0.8rem;
+}
+
 .greeting {
   font-size: 1.5rem;
   font-style: italic;
